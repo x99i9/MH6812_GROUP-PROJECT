@@ -17,7 +17,7 @@ The dataset originates from the research work by **Marja-Liisa Lähteenmäki** a
 - [Citation](#citation)
 - [License](#license)
 
-### Project Background
+### Project Background and Overview
 
 Natural Language Processing (**NLP**) has emerged as a vital tool for analyzing unstructured text data across various domains, especially in the **financial sector**. In financial markets, **investor sentiment** plays a critical role in influencing stock prices, market volatility, and trading volumes. *Sentiment analysis*, a subfield of NLP, enables the extraction of emotions and opinions from financial texts, such as **news articles**, **analyst reports**, and **social media posts**.
 
