@@ -16,3 +16,14 @@ The dataset originates from the research work by **Marja-Liisa Lähteenmäki** a
 - [Code of Conduct](#code-of-conduct)
 - [Citation](#citation)
 - [License](#license)
+
+### Project Background
+
+Natural Language Processing (**NLP**) has emerged as a vital tool for analyzing unstructured text data across various domains, especially in the **financial sector**. In financial markets, **investor sentiment** plays a critical role in influencing stock prices, market volatility, and trading volumes. *Sentiment analysis*, a subfield of NLP, enables the extraction of emotions and opinions from financial texts, such as **news articles**, **analyst reports**, and **social media posts**.
+
+This project focuses on applying **NLP techniques** to analyze financial sentiment and understand its impact on market behavior. By leveraging labeled datasets like the *FinancialPhraseBank*, we aim to develop a pipeline that:
+- **Preprocesses financial text** (e.g., cleaning, tokenization, and removing duplicates),
+- **Classifies sentiment** as positive, negative, or neutral, and
+- Correlates these sentiments with **market trends**.
+
+The ultimate goal is to uncover actionable insights that can assist **investors**, **analysts**, and **policymakers** in making more informed decisions in the fast-paced **financial market**.
